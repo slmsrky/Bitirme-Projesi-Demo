@@ -1,0 +1,61 @@
+::-webkit-scrollbar {
+    display: none;
+}
+
+body {
+    background-color: #383e42;
+}
+
+.login-port a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.login-port {
+    margin: 5%;
+    margin-bottom: 5%;
+}
+
+.golgelendirme {
+    background-color: #383e42;
+    box-shadow: 0.3em -0.3em 0.2em #848a91, 0.3em 0.3em 0.2em #848a91, -0.3em 0.3em 0.2em #848a91, -0.3em -0.3em 0.2em #848a91;
+    border-radius: 2.5%;
+}
+
+.login-border-bottom {
+    border-bottom: 1px solid #fff;
+    margin-bottom: 10%;
+}
+
+.ortala {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.menu {
+    height: 100vh;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+i {
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+    color:#4784c4;
+}
+
+.menu-bio {
+    height: 50%;
+    padding-top: 2vh;
+    color:aliceblue;
+}
+
+.button {
+    background-color: #4784c4;
+    color: #fff;
+}
